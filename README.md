@@ -26,6 +26,12 @@ python test.py --dataset_dir=med-image
 # References
 <pre>
 CycleGAN, 
-paper: Zhu, J. Y., Park, T., Isola, P., & Efros, A. A. (2017). Unpaired image-to-image translation using cycle-consistent adversarial networks. In Proceedings of the IEEE international conference on computer vision (pp. 2223-2232).
+paper: @InProceedings{Zhu_2017_ICCV,
+author = {Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A.},
+title = {Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks},
+booktitle = {Proceedings of the IEEE International Conference on Computer Vision (ICCV)},
+month = {Oct},
+year = {2017}
+}
 URL: [https://github.com/junyanz/CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git)
 </pre>
